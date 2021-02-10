@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="778e6dd5-6583-4057-ab24-9555ea9b8fd6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\MavenRepository\repository\repo" />
+        <option name="userSettingsFile" value="F:\MavenRepository\apache-maven-3.6.1\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1o8Kz6m2LcKBjVShkE0MGj5CzmQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="G:/bigData/spark-2.4.7-bin-hadoop2.7/jars" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Git\sparkTest\src\main\resources\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SparkALSByStreaming">
+    <configuration name="SparkALSByStreaming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafka.SparkALSByStreaming" />
+      <module name="sparkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkKafkaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SparkKafkaTest" />
+      <module name="sparkTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkMlAlsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="als_train.SparkMlAlsTest" />
+      <module name="sparkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="als_train.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkSocketTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SparkSocketTest" />
+      <module name="sparkTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkSqlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SparkSqlTest" />
+      <module name="sparkTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SparkALSByStreaming" />
+      <item itemvalue="Application.SparkSqlTest" />
+      <item itemvalue="Application.SparkSocketTest" />
+      <item itemvalue="Application.SparkKafkaTest" />
+      <item itemvalue="Application.SparkMlAlsTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SparkALSByStreaming" />
+        <item itemvalue="Application.SparkMlAlsTest" />
+        <item itemvalue="Application.SparkKafkaTest" />
+        <item itemvalue="Application.SparkSocketTest" />
+        <item itemvalue="Application.SparkSqlTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="778e6dd5-6583-4057-ab24-9555ea9b8fd6" name="Default Changelist" comment="" />
+      <created>1612663036570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612663036570</updated>
+      <workItem from="1612663039381" duration="47000" />
+      <workItem from="1612663105090" duration="4125000" />
+      <workItem from="1612695228817" duration="6456000" />
+      <workItem from="1612785179927" duration="9125000" />
+      <workItem from="1612833062057" duration="3789000" />
+      <workItem from="1612857197806" duration="657000" />
+      <workItem from="1612858247528" duration="79000" />
+      <workItem from="1612858473033" duration="113000" />
+      <workItem from="1612859484885" duration="4837000" />
+      <workItem from="1612865305065" duration="1818000" />
+      <workItem from="1612922782671" duration="2830000" />
+      <workItem from="1612925658668" duration="3955000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1612926855814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1612926855814" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612793407569">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1612793407569" />
+    <state x="315" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612836063860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="315" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1612836063860" />
+    <state x="1148" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1612924062251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1148" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1612924062251" />
+    <state x="549" y="276" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1612698779021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="276" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1612698779021" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1612859521597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612859521597" />
+    <state width="822" height="2" key="GridCell.Tab.0.bottom" timestamp="1612929811558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="822" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612929811558" />
+    <state width="822" height="2" key="GridCell.Tab.0.center" timestamp="1612929811558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="822" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612929811558" />
+    <state width="822" height="2" key="GridCell.Tab.0.left" timestamp="1612929811558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="822" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612929811558" />
+    <state width="822" height="2" key="GridCell.Tab.0.right" timestamp="1612929811558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="822" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612929811558" />
+    <state x="48" y="0" key="SettingsEditor" timestamp="1612926840507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="48" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612926840507" />
+    <state x="178" y="116" key="new project wizard" timestamp="1612684632894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="116" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1612684632894" />
+  </component>
+</project>

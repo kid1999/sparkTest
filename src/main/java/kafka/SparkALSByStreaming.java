@@ -113,4 +113,5 @@ public final class SparkALSByStreaming {
         jssc.start();
         jssc.awaitTermination();
     }
+
 }
